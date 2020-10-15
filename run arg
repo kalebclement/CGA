@@ -1,0 +1,2 @@
+g++ cga.cpp -o OUT -lGL -lGLU -lglut
+./OUT
